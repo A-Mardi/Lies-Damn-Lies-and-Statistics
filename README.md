@@ -44,19 +44,17 @@ Outlier Detection: Identifies 1x, 2x, and 3x outliers from the dataset.
 
 ## How to Run
 
-Clone the repository:
+**Clone the repository:**
 
 `git clone <https://github.com/A-Mardi/Lies-Damn-Lies-and-Statistics>`
 
-Build the project in Visual Studio or compile via terminal using:
+**Build the project in Visual Studio**
 
-`g++ -std=c++20 stats.cpp -o stats`
-
-Run the application:
+**Run the application:**
 
 `./stats.exe`
 
-Enter the data via the console or provide a file using redirection:
+**Enter the data via the console or provide a file using the command line:**
 
 `./stats.exe < input.txt`
 
@@ -96,7 +94,7 @@ Outliers(3x)                      no outliers
 ```
 ## Ownership
 
-This project is the property of Fanshawe College and is created for the purposes of the INFO-1156 Object-Oriented Programming in C++ course. Unauthorized distribution or use of this project without permission from Fanshawe College is prohibited.
+This project is the property of **Garth Santor** & **Fanshawe College** and is created for the purposes of the INFO-1156 Object-Oriented Programming in C++ course. Unauthorized distribution or use of this project without permission from Garth Santor & Fanshawe College is prohibited.
 
 ## Author
 
